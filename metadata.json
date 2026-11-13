@@ -1,0 +1,6 @@
+{
+  "name": "MCS - Modern Corporate Services",
+  "description": "Professional housekeeping personnel, industrial manpower, licensed security guards, and commercial laundry management with interactive 3D spatial experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
