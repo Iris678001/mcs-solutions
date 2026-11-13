@@ -92,7 +92,7 @@ export const HeadquartersSection: React.FC<HeadquartersSectionProps> = ({ onOpen
             ) : activePhoto === 'reception' ? (
               <div className="relative w-full h-full">
                 <img
-                  src="/src/assets/images/mcs_office_reception_1794503519406.jpg"
+                  src="/assets/images/mcs_office_reception_1794503519406.jpg"
                   alt="MCS Corporate Reception Desk and Branded Services Wall"
                   className="w-full h-full object-cover object-center"
                 />
@@ -110,7 +110,7 @@ export const HeadquartersSection: React.FC<HeadquartersSectionProps> = ({ onOpen
             ) : (
               <div className="relative w-full h-full">
                 <img
-                  src="/src/assets/images/mcs_service_wall_1794503539448.jpg"
+                  src="/assets/images/mcs_service_wall_1794503539448.jpg"
                   alt="MCS Central Operations Hub and 4-Division Service Command Wall"
                   className="w-full h-full object-cover object-center"
                 />

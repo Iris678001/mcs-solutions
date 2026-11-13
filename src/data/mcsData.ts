@@ -34,7 +34,7 @@ export const MCS_SERVICES: ServiceDetail[] = [
     tagline: 'Reliable, uniformed cleaning staff and daily housekeeping crews deployed at your facility.',
     description:
       'We supply dedicated, background-checked housekeeping personnel for corporate offices, commercial complexes, hospitals, and residential communities. Our staff arrives in clean uniforms, fully trained in mechanized cleaning machines, washroom hygiene, and waste management.',
-    imageUrl: '/src/assets/images/service_housekeeping_staff_1794468457948.jpg',
+    imageUrl: '/assets/images/service_housekeeping_staff_1794468457948.jpg',
     stats: [
       { label: 'Active Housekeepers', value: '1,450+' },
       { label: 'Facilities Maintained', value: '380+' },
@@ -82,7 +82,7 @@ export const MCS_SERVICES: ServiceDetail[] = [
     tagline: 'Pre-vetted, disciplined labor for factories, warehouses, logistics, and office support.',
     description:
       'Eliminate hiring shortages and labor compliance risks. MCS sources, verifies, trains, and manages reliable personnel on contract or permanent deployments. We handle all statutory payroll, biometric attendance, and occupational safety.',
-    imageUrl: '/src/assets/images/service_industrial_manpower_1794468459181.jpg',
+    imageUrl: '/assets/images/service_industrial_manpower_1794468459181.jpg',
     stats: [
       { label: 'Workers Deployed', value: '3,200+' },
       { label: 'Placement Turnaround', value: '48 Hours' },
@@ -130,7 +130,7 @@ export const MCS_SERVICES: ServiceDetail[] = [
     tagline: 'PSARA-licensed, physically fit security guards safeguarding your premises 24/7.',
     description:
       'Our security officers are rigorously trained in physical defense, gate control, visitor management, vehicle inspection, and emergency evacuation. Supervised by ex-defense personnel with regular surprise night patrols.',
-    imageUrl: '/src/assets/images/service_security_personnel_1794468459622.jpg',
+    imageUrl: '/assets/images/service_security_personnel_1794468459622.jpg',
     stats: [
       { label: 'Guards on Active Duty', value: '1,800+' },
       { label: 'PSARA License Verified', value: '100%' },
@@ -178,7 +178,7 @@ export const MCS_SERVICES: ServiceDetail[] = [
     tagline: 'Spotless linen washing, uniform pressing, and scheduled doorstep delivery.',
     description:
       'We run dedicated commercial laundry operations for hotels, hospitals, corporate workwear, and educational campuses. Our team handles linen sorting, stain removal, hygienic hot-water disinfection, steam pressing, and organized return.',
-    imageUrl: '/src/assets/images/service_commercial_laundry_1794468461339.jpg',
+    imageUrl: '/assets/images/service_commercial_laundry_1794468461339.jpg',
     stats: [
       { label: 'Daily Laundry Capacity', value: '25,000 kg' },
       { label: 'Thermal Disinfection', value: '85°C Hot Wash' },
